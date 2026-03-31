@@ -1,0 +1,76 @@
+================================================================
+     STAY SAFE ONLINE — PREVENTION TIPS
+     Cybercrime Awareness 2025 | College Students, India
+================================================================
+
+1.  KEEP SOFTWARE & OS UPDATED
+    Always install security patches as soon as they are released.
+    Most ransomware attacks exploit vulnerabilities that already
+    have fixes available. Enable automatic updates on all devices.
+
+2.  USE STRONG & UNIQUE PASSWORDS
+    Never reuse the same password across multiple accounts. Use at
+    least 12 characters with a mix of letters, numbers, and
+    symbols. A password manager like Bitwarden can help you manage
+    them safely.
+
+3.  ENABLE TWO-FACTOR AUTHENTICATION (2FA)
+    Add 2FA to your email, social media, banking apps, and college
+    portal. Even if your password is stolen, 2FA blocks
+    unauthorised access. Prefer an authenticator app over
+    SMS-based 2FA.
+
+4.  THINK BEFORE YOU CLICK — SPOT PHISHING
+    Do not click links or open attachments from unknown senders.
+    Verify the sender's actual email address carefully. When in
+    doubt, visit the website directly by typing the URL yourself
+    in the browser.
+
+5.  BACK UP YOUR FILES REGULARLY
+    Keep copies of academic work and personal documents on an
+    external drive or trusted cloud storage. Follow the 3-2-1
+    rule: 3 copies, 2 different media, 1 offsite. Backups are
+    your only real defence against ransomware.
+
+6.  AVOID PUBLIC WI-FI FOR SENSITIVE TASKS
+    Public Wi-Fi in cafes, libraries, and hostels can be monitored
+    by attackers. Never access banking apps or enter passwords on
+    unsecured networks. Use a VPN if you must connect to public
+    Wi-Fi.
+
+7.  DOWNLOAD APPS ONLY FROM OFFICIAL SOURCES
+    Install apps only from the Google Play Store, Apple App Store,
+    or the official website of the software. Pirated software and
+    cracked apps are a leading source of malware infections on
+    student devices.
+
+8.  REVIEW APP PERMISSIONS REGULARLY
+    Check what permissions your installed apps are requesting. A
+    flashlight or calculator app does not need access to your
+    contacts, camera, or location. Revoke unnecessary permissions
+    in your phone settings.
+
+9.  [UPI/FINANCIAL] NEVER SHARE YOUR UPI PIN OR OTP
+    Legitimate banks and government agencies will NEVER ask for
+    your PIN or OTP over a call or message. Fraudsters create
+    panic — stay calm and hang up. Remember: you only enter your
+    UPI PIN to SEND money, never to receive it.
+
+10. [UPI/FINANCIAL] VERIFY QR CODES & PAYMENT REQUESTS
+    Scammers send fake collect requests on UPI that actually
+    deduct money from your account. Always check the recipient
+    name shown on your app before confirming. Never accept payment
+    requests from unknown people.
+
+11. LOG OUT FROM SHARED DEVICES
+    Always log out of your accounts when using college lab
+    computers, library systems, or a friend's device. Do not save
+    passwords on shared devices. Clear the browser history
+    after use.
+
+12. BE CAREFUL ON SOCIAL MEDIA
+    Avoid sharing personal details like your phone number, home
+    address, college ID, or daily routine publicly. Cybercriminals
+    use social media to build profiles for targeted phishing and
+    identity theft attacks.
+
